@@ -1,0 +1,5 @@
+*.csv
+*.so
+*.dll
+*.log
+.DS_Store
